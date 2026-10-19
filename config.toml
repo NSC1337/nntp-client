@@ -1,0 +1,6 @@
+[server]
+name = "Newshosting"
+url = "news.newshosting.com"
+port = 563
+username = "..."
+password = "..."
